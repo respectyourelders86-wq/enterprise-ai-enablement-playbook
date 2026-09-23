@@ -32,6 +32,15 @@ The sequence is deliberate. Technology selection follows the business problem, i
 - [Fictional Service Operations Case](docs/FICTIONAL_SERVICE_OPERATIONS_CASE.md) - a worked example for an internal knowledge assistant.
 - [Public Scope](PUBLIC_SCOPE.md) - the safety and evidence boundary for this repository.
 
+## Real internal case studies
+
+Dated, sanitised accounts from my independent business project, separate from the generic templates and fictional service-operations example:
+
+- [Verification handoff](case-studies/verification-handoff.md) — completed supervised delivery, 23 September 2026.
+- [Context recovery](case-studies/context-recovery.md) — accepted bounded proof, 23 September 2026.
+
+Each case distinguishes my direction from agent implementation, and technical results from business outcomes. Read the [case-study evidence boundary](case-studies/README.md).
+
 ## How To Use This Repository
 
 1. Start with the intake template and define a real business problem.
@@ -42,6 +51,7 @@ The sequence is deliberate. Technology selection follows the business problem, i
 
 ## Public-Scope Statement
 
-All scenarios in this repository are generic or fictional. They do not describe a client engagement, employer system, private implementation, or production result. No confidential data, credentials, private infrastructure, internal prompts, or proprietary architecture are included.
+The templates and fictional scenarios illustrate methods; they do not document actual delivery. The separately labelled real internal case studies describe dated, sanitised events in the author's independent business project. They identify human and agent contributions, observed results and limitations. They do not represent employer systems, commercial client engagements or enterprise-scale production deployments. Confidential information, private source code, logs, credentials, internal prompts and proprietary architecture are excluded.
+
 
 
